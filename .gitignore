@@ -1,9 +1,12 @@
-_site
 .DS_Store
+
 .jekyll-cache
 .jekyll-metadata
+_site
+
 assets/css
-node_modules
+
+node_modules/
+vendor/bundle/
 .bundle/
-vendor/
-assets/images/hero_1_mobile.afphoto
+
